@@ -1,0 +1,29 @@
+
+
+.hello {
+    background: radial-gradient(circle, #ff7e5f, #feb47b, #86a8e7, #91eae4);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.form-group {
+    margin-right: 20px;
+}
+
+button {
+    align-self: flex-end;
+    
+}
+.input-half {
+    flex: 1;
+    padding: 0 10px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+}

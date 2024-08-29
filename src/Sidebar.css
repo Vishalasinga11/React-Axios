@@ -1,0 +1,12 @@
+#yoyo{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    
+
+
+}
+
+.hi{
+    white-space: nowrap;
+}
